@@ -33,10 +33,11 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
+  
 }
 
 h3 {
@@ -62,12 +63,13 @@ p {
 }
 
 span {
-  display: inline-block;
+  display : inline-block;
   font-size: 1em;
   line-height: 1em;
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
+  text-align: left;
 }
 
 img {
